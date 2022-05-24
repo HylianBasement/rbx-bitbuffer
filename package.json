@@ -1,5 +1,5 @@
 {
-  "name": "@rbxts/bitbuffer-rstk",
+  "name": "@rbxts/bitbuffer2",
   "version": "1.0.0-ts.0",
   "description": "Typings for rstk's BitBuffer module",
   "main": "src/init.lua",
@@ -16,6 +16,13 @@
       "url": "https://github.com/Rimuy"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HylianBasement/rbx-bitbuffer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HylianBasement/rbx-bitbuffer/issues"
+  },
   "license": "MIT",
   "files": [
     "src",

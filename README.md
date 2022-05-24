@@ -3,13 +3,12 @@ Typings for [rstk](https://github.com/rstk)'s [BitBuffer](https://github.com/rst
 
 ## Installation
 ```bash
-npm i @rbxts/bitbuffer-rstk
+npm i @rbxts/bitbuffer2
 ```
 
 ## Usage
 ```ts
-import { ReplicatedStorage } from "@rbxts/services";
-import BitBuffer from "@rbxts/bitbuffer-rstk";
+import BitBuffer from "@rbxts/bitbuffer2";
 
 class PlayerData {
         public Money: number;
