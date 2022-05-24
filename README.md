@@ -7,7 +7,7 @@ npm i @rbxts/bitbuffer-rstk
 ```
 
 ## Usage
-```js
+```ts
 import { ReplicatedStorage } from "@rbxts/services";
 import BitBuffer from "@rbxts/bitbuffer-rstk";
 
